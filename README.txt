@@ -13,4 +13,4 @@ Logout Feature:
 The portal includes a logout option in the main menu. Upon selecting this option, the user's session ends, and a message "Thank you" is displayed, confirming their successful logout.
 
 Programming Structure:
-The C code encompasses event handling, user input validation, conditional checks for login authentication, and menu navigation. It uses functions to manage different sections of the portal, ensuring a structured and organized approach to handling user interactions.
+The Java code encompasses event handling, user input validation, conditional checks for login authentication, and menu navigation. It uses functions to manage different sections of the portal, ensuring a structured and organized approach to handling user interactions.
